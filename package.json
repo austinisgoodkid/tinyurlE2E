@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "@babel/preset-env": "^7.10.4",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^26.1.0",
+    "babel-preset-env": "^1.7.0",
+    "jest-puppeteer": "^4.4.0"
+  },
+  "name": "tinyurlE2E",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/austinisgoodkid/tinyurlE2E.git",
+  "author": "austinisgoodkid <yangyi.fun@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "jest": "^26.1.0",
+    "puppeteer": "^5.0.0",
+    "yarn": "^1.22.4"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
