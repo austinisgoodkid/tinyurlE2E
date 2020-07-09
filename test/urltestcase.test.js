@@ -53,8 +53,6 @@ describe('the URL short funtion',()=>{
 
         //check 2nd URL is expect
         const title = await page.title()
-        console.log(title)
-
         expect(title).toEqual('picsee - Google 搜尋')
         
 
